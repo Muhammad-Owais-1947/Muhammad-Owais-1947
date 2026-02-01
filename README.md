@@ -40,7 +40,7 @@
 
 ### 📬 Command Center
 <div align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/%20MuhammadOwaisCEOTensorhub"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin" /></a>
   <a href="mailto:ceo@tensorhub.pk"><img src="https://img.shields.io/badge/CEO-ceo@tensorhub.pk-red?style=flat-square&logo=microsoft-outlook&logoColor=white" /></a>
   <a href="mailto:dev@tensorhub.pk"><img src="https://img.shields.io/badge/Dev-dev@tensorhub.pk-black?style=flat-square&logo=github" /></a>
   <a href="mailto:info@tensorhub.pk"><img src="https://img.shields.io/badge/Info-info@tensorhub.pk-gray?style=flat-square&logo=mail.ru" /></a>
