@@ -1,39 +1,26 @@
 # Muhammad Owais
-**Founder & Lead Engineer @ [TensorHub](https://tensorhub.pk)**
-*Software Architect specialized in Agentic AI and Cloud-Native Performance*
+> **Lead Engineer & Founder @ [TensorHub](https://tensorhub.pk)**
+> *Specializing in Cloudflare Edge Runtime, Agentic AI, and High-Performance Web Systems.*
 
 ---
 
-### ⚡ Featured Ecosystem & Achievements
-
-| [⏳ Timespace](https://timespace.tensorhub.pk/) | [🏢 TensorHub](https://tensorhub.pk) | [🏆 Smart Raasta](#) |
-| :--- | :--- | :--- |
-| High-performance Productivity tool built on Next.js & Cloudflare Edge. | Custom software architecture for high-growth startups globally. | Lead Developer of the 2-day sprint career roadmap engine. |
-
----
-
-### 🛠 Technical Arsenal
-
-- **Cloud:** `Cloudflare Workers` • `KV` • `Pages` • `GCP`
-- **Backend/AI:** `Python` • `Gemini Pro` • `Agentic Workflows` • `Node.js`
-- **Frontend:** `React` • `Next.js` • `Tailwind CSS` • `Framer Motion`
+### 🛠️ Current Focus
+- 🏗️ **Architecting** scalable B2B solutions at **TensorHub**.
+- 🚀 **Scaling** [Timespace](https://timespace.tensorhub.pk/), a productivity SaaS built on the edge.
+- 🤖 **Experimenting** with LLM orchestration and automated data pipelines.
 
 ---
 
-### 📊 Engineering Impact
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=muhammad-owais&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-owais&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
-
----
-
-### 📬 Direct Contact Channels
-
-- **Founder/CEO:** `ceo@tensorhub.pk`
-- **Development:** `dev@tensorhub.pk`
-- **General Inquiries:** `info@tensorhub.pk`
+### 🏆 Engineering Highlights
+- **Timespace (Active SaaS):** An optimized management engine built with Next.js and Cloudflare D1.
+- **TensorHub (Agency):** Delivering high-intent MVPs for startups with a focus on technical SEO and performance.
+- **Smart Raasta (Hackathon):** Lead Developer for an AI career-pathing engine built in a 48-hour sprint.
 
 ---
-<div align="center">
-  <sub>Engineering solutions in <strong>Lahore, Pakistan</strong>. Ready for your next MVP? <strong><a href="https://tensorhub.pk">Let's Talk.</a></strong></sub>
-</div>
+
+### 💻 Technical Stack
+```yml
+Infrastructure: [Cloudflare Workers, Pages, KV, D1, Google Cloud]
+Backend:         [Python, Node.js, REST APIs, Gemini Pro / AI Agents]
+Frontend:        [React, Next.js, Tailwind CSS, Framer Motion]
+Optimization:    [Technical SEO, URL Normalization, E-E-A-T Validation]
