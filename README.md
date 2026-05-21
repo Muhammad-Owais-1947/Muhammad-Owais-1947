@@ -1,121 +1,137 @@
-# Muhammad Owais ⚡
+# Muhammad Owais
 
-**Software Architect | Founder & Lead Engineer @ [TensorHub](https://tensorhub.pk)**  
-*Shaping the Edge. Commanding AI. Engineering the Future.*
+**Software Architect · Founder & Lead Engineer at TensorHub**
+
+Building edge-first AI systems, scalable web infrastructure, and intelligent developer tools.
 
 ---
 
-## 🌌 Featured Universe
-
-<div align="center">
+## Featured Projects
 
 | Project | Description |
 |---|---|
-| <img src="https://img.shields.io/badge/⏳_Timespace-6366f1?style=for-the-badge" /><br>**[Timespace](https://timespace.tensorhub.pk/)** | Edge-native productivity engine — Cloudflare D1 + React |
-| <img src="https://img.shields.io/badge/🏢_TensorHub-000000?style=for-the-badge" /><br>**[TensorHub](https://tensorhub.pk)** | AI-powered MVPs & growth infrastructure for startups |
-| <img src="https://img.shields.io/badge/🔐_VaultZero-06b6d4?style=for-the-badge" /><br>**[VaultZero](https://vaultzero.tensorhub.pk)** | Next-gen secrets management for edge apps |
-| <img src="https://img.shields.io/badge/🛡️_Scam_Shield-f97316?style=for-the-badge" /><br>**[Scam Shield](https://scamshield.tensorhub.pk)** | AI-driven fraud detection & trust signals for marketplaces |
-
-</div>
+| **[Timespace](https://timespace.tensorhub.pk/)** | Edge-native productivity platform powered by Cloudflare D1 and React |
+| **[TensorHub](https://tensorhub.pk)** | AI-focused product engineering studio for startups |
+| **[VaultZero](https://vaultzero.tensorhub.pk)** | Secure secrets management platform for edge applications |
+| **[Scam Shield](https://scamshield.tensorhub.pk)** | AI-assisted fraud detection and trust scoring system |
 
 ---
 
-## ⚔️ Tech Arsenal
+## Tech Stack
 
-<div align="center">
-<img src="https://img.shields.io/badge/Cloudflare-Workers-F38020?style=for-the-badge&logo=cloudflare" />  
-<img src="https://img.shields.io/badge/D1-6366F1?style=for-the-badge" />  
-<img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=googlecloud" />  
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python" />  
-<img src="https://img.shields.io/badge/GeminiPro-FF6D00?style=for-the-badge" />  
-<img src="https://img.shields.io/badge/AgenticAI-9B5DE5?style=for-the-badge" />  
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react" />  
-<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" />  
-<img src="https://img.shields.io/badge/FramerMotion-0055FF?style=for-the-badge" />
-</div>
+<p align="left">
 
----
+<img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge" />
 
-## 🚀 Live Status
-
-<div align="center">
-![Coding](https://img.shields.io/badge/Coding-Active-brightgreen?style=for-the-badge)  
-![Deploying](https://img.shields.io/badge/Deploying-On%20Edge-ff69b4?style=for-the-badge)  
-![AI Experiment](https://img.shields.io/badge/AI%20Experiment-Running-9b5de5?style=for-the-badge)  
-</div>
-
-> ⚡ **Tip:** Replace these static badges with dynamic GitHub Actions badges to reflect real-time activity.
+</p>
 
 ---
 
-## 🔗 Command Center
+## Current Focus
 
-<div align="center">
-<a href="https://www.linkedin.com/in/MuhammadOwaisCEOTensorhub"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" /></a>  
-<a href="mailto:ceo@tensorhub.pk"><img src="https://img.shields.io/badge/CEO-ceo@tensorhub.pk-red?style=for-the-badge&logo=microsoft-outlook" /></a>  
-<a href="mailto:dev@tensorhub.pk"><img src="https://img.shields.io/badge/Dev-dev@tensorhub.pk-black?style=for-the-badge&logo=github" /></a>  
-<a href="mailto:info@tensorhub.pk"><img src="https://img.shields.io/badge/Info-info@tensorhub.pk-gray?style=for-the-badge&logo=mail.ru" /></a>  
-</div>
+- Expanding **Timespace** edge synchronization features
+- Building secure low-latency infrastructure with **VaultZero**
+- Experimenting with AI-driven fraud analysis in **Scam Shield**
+- Helping startups launch AI-enabled MVPs through **TensorHub**
 
 ---
 
-## 🛸 Vision Statement
+## About Me
 
-> I engineer **digital futures**, not just software.  
-> I combine **speed, intelligence, and security** into tools that **anticipate** human needs.  
-> If the web is a universe, I build its **constellations**.
+I focus on building performant, scalable systems using edge infrastructure and modern AI tooling.
 
----
+My work combines:
+- edge computing
+- AI orchestration
+- performance optimization
+- developer tooling
+- production-focused architecture
 
-## 📊 Mission Log (live-ready)
-
-- 🚀 **VaultZero v1.2** — secure, low-latency secrets for edge apps.  
-- 🤖 **Scam Shield v2** — AI signal experiments running in production pilots.  
-- 🌌 **Timespace** — expanding edge features and progressive sync.  
-- 💻 **TensorHub** — shipping AI-first MVPs for global founders.
-
-> Tip: Automate this section with GitHub Actions to surface real-time deploys, releases, and experiment flags.
+I enjoy turning early-stage ideas into reliable products with measurable impact.
 
 ---
 
-## ✨ Signature Snapshot
+## Selected Work
 
-- **Role:** Software Architect · Founder & Lead Engineer  
-- **Location:** Lahore, Pakistan  
-- **Specialties:** Cloudflare Edge Runtime · Agentic AI orchestration · High-performance web systems · Productized ML  
-- **Approach:** Build small measurable bets · instrument everything · optimize for developer velocity and user delight
+### Timespace
+Built an edge-native productivity platform designed for fast interactions and progressive synchronization.
 
----
+### TensorHub
+Worked with startups to rapidly prototype and launch AI-enabled MVPs using reusable engineering systems.
 
-## 🧰 How I Help
+### VaultZero
+Designed a lightweight secrets infrastructure optimized for edge environments and developer workflows.
 
-- **Architect edge-first products** — prototypes to hardened production with cost-aware inference.  
-- **Ship AI features fast** — agentic orchestration, model selection, and inference pipelines tuned for latency and cost.  
-- **Scale reliably** — caching strategies, observability, and performance budgets that keep SLAs predictable.  
-- **Mentor founders and teams** — technical roadmaps, hiring for velocity, and engineering leadership for early-stage startups.
+### Scam Shield
+Developed AI-assisted fraud signal experimentation for online trust and marketplace protection.
 
 ---
 
-## 🏆 Selected Wins
+## Live Status
 
-- **Timespace** — edge-native productivity engine with progressive sync and sub-100ms interactions.  
-- **TensorHub** — launched 12+ founder MVPs in 90 days using opinionated templates and automation.  
-- **VaultZero** — secrets store serving sub-10ms reads at the edge with audit trails.  
-- **Scam Shield** — AI signal layer that reduced fraud false positives and improved conversion in pilots.
+<p align="left">
 
----
+<img src="https://img.shields.io/badge/Coding-Active-brightgreen?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Deployments-Edge_Ready-blueviolet?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AI_Experiments-Running-9B5DE5?style=for-the-badge" />
 
-## 📩 Quick Call to Action
-
-Need an edge-first MVP, a secure secrets layer, or an AI signal pipeline?  
-Email **ceo@tensorhub.pk** with a one-line summary and I’ll reply with a focused plan and next steps.
+</p>
 
 ---
 
-> **Design note**  
-> This single-file profile is optimized for README.md, personal site About sections, or a GitHub profile. Replace any placeholder lines with live metrics, links, or case studies to increase credibility and conversion.
+## Contact
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/MuhammadOwaisCEOTensorhub">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://tensorhub.pk">
+  <img src="https://img.shields.io/badge/Website-TensorHub-black?style=for-the-badge&logo=google-chrome" />
+</a>
+
+<a href="mailto:ceo@tensorhub.pk">
+  <img src="https://img.shields.io/badge/Email-ceo@tensorhub.pk-red?style=for-the-badge&logo=gmail" />
+</a>
+
+</p>
+
+---
+
+## Philosophy
+
+> Build fast.  
+> Measure everything.  
+> Optimize relentlessly.  
+> Keep systems scalable and maintainable.
+
+---
+
+## Signature Snapshot
+
+- **Role:** Software Architect · Founder & Lead Engineer
+- **Location:** Lahore, Pakistan
+- **Focus Areas:** Edge Computing · AI Systems · Cloud Infrastructure · Developer Tools
+- **Core Stack:** Cloudflare Workers · React · Python · TailwindCSS · GCP
+
+---
+
+## Engineering Principles
+
+- Build systems that are simple to scale
+- Prioritize developer velocity without sacrificing reliability
+- Optimize performance early
+- Instrument and monitor everything
+- Focus on measurable outcomes over unnecessary complexity
+
+---
 
 <p align="right">
-  <sub>Engineering scalable solutions in **Lahore, Pakistan**.</sub><br />
-  <sub><b>TensorHub</b> — Precision software for the next generation of founders.</sub>
+  <sub><b>TensorHub</b> — Engineering scalable digital systems for modern startups.</sub>
 </p>
