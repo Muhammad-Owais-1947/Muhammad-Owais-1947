@@ -1,74 +1,41 @@
-# ⚡ Muhammad Owais
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Muhammad%20Owais&fontSize=40&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=240&section=header&text=Muhammad%20Owais&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Founder%20@%20TensorHub%20%E2%80%A2%20Building%20Modern%20AI%20Products&descAlignY=58&descSize=18" />
 </p>
 
-**Software Architect · Founder & Lead Engineer @ TensorHub**
-
-Building edge-first AI systems, scalable infrastructure, and intelligent developer tools.
-
----
-
 <p align="center">
-
-<a href="https://tensorhub.pk">
-  <img src="https://img.shields.io/badge/Website-TensorHub-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/MuhammadOwaisCEOTensorhub">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<a href="mailto:ceo@tensorhub.pk">
-  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1200&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+AI-powered+products;Creating+modern+web+platforms;Designing+fast+and+scalable+systems;Turning+ideas+into+real+products" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-I build **fast, scalable, edge-native systems** powered by AI and modern web technologies.
+I build modern digital products powered by AI, cloud infrastructure, and scalable web technologies.
 
-Focus areas:
-- ⚡ Edge Computing (Cloudflare Workers, D1)
-- 🧠 AI Systems & Agentic Workflows
-- 🔐 Secure Infrastructure Design
-- 📈 Scalable Web Applications
-- 🛠️ Developer Tooling
-
-I enjoy turning early-stage ideas into **real production systems with measurable impact**.
+I enjoy:
+- building useful products
+- improving user experience
+- solving technical problems
+- turning ideas into real systems
 
 ---
 
-## 🌌 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description |
 |---|---|
-| 🚀 **[Timespace](https://timespace.tensorspace.pk/)** | Edge-native productivity system with real-time sync |
-| 🏢 **[TensorHub](https://tensorhub.pk)** | AI product engineering studio for startups |
-| 🔐 **[VaultZero](https://vaultzero.tensorhub.pk)** | Secure secrets management for edge applications |
-| 🛡️ **[Scam Shield](https://scamshield.tensorhub.pk)** | AI-driven fraud detection and trust scoring system |
+| **[TensorHub](https://tensorhub.pk)** | AI-focused product development studio |
+| **[Timespace](https://timespace.tensorhub.pk/)** | Productivity platform built with edge technologies |
+| **[VaultZero](https://vaultzero.tensorhub.pk)** | Secure secrets management platform |
+| **[Scam Shield](https://scamshield.tensorhub.pk)** | AI-assisted fraud detection system |
 
 ---
 
-## ⚔️ Tech Stack
+## ⚙️ Tools & Technologies
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=react,python,nodejs,tailwind,gcp,cloudflare,git,github,vscode" />
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/Cloudflare_Workers-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=react,python,nodejs,tailwind,cloudflare,gcp,git,github,vscode" />
 
 </p>
 
@@ -78,16 +45,74 @@ I enjoy turning early-stage ideas into **real production systems with measurable
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Owais-1947&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Muhammad-Owais-1947&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Owais-1947&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Owais-1947&layout=compact&theme=tokyonight&hide_border=true" />
 
 </p>
 
+---
+
+## 🔥 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Owais-1947&theme=tokyo-night&hide_border=true&area=true" width="95%"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Muhammad-Owais-1947/Muhammad-Owais-1947/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+> ⚠️ The snake animation works only after setting up GitHub Actions later.
+
+---
+
+## 🌱 Current Focus
+
+- AI-powered applications
+- Modern web systems
+- Better developer tools
+- Performance optimization
+- Cloud infrastructure
+
+---
+
+## 💡 Philosophy
+
+> Keep things simple.  
+> Build with purpose.  
+> Focus on real users.  
+> Improve continuously.
+
+---
+
+## 📬 Connect With Me
+
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Owais-1947&theme=tokyo-night&hide_border=true" width="95%"/>
+<a href="https://tensorhub.pk">
+  <img src="https://img.shields.io/badge/Website-TensorHub-black?style=for-the-badge" />
+</a>
 
+<a href="https://www.linkedin.com/in/MuhammadOwaisCEOTensorhub">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
+</a>
+
+<a href="mailto:ceo@tensorhub.pk">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <sub>Built with curiosity, creativity, and a passion for technology.</sub>
+</p>
 </p>
 
 ---
