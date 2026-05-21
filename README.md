@@ -6,30 +6,14 @@
 
 ### 🌌 Featured Universe
 <div align="center">
-<table>
-<tr>
-<td align="center">
-<img src="https://img.shields.io/badge/⏳_Timespace-6366f1?style=for-the-badge&logo=nextdotjs" /><br>
-<strong><a href="https://timespace.tensorhub.pk/">Timespace</a></strong><br>
-<em>Edge-native productivity engine—Next.js + Cloudflare D1.</em>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🏢_TensorHub-000000?style=for-the-badge&logo=appveyor" /><br>
-<strong><a href="https://tensorhub.pk">TensorHub</a></strong><br>
-<em>AI-powered MVPs & growth infrastructure for startups.</em>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🔐_VaultZero-06b6d4?style=for-the-badge&logo=keycdn" /><br>
-<strong><a href="https://vaultzero.tensorhub.pk">VaultZero</a></strong><br>
-<em>Next-gen secrets management for edge apps.</em>
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/🛡️_Scam_Shield-f97316?style=for-the-badge&logo=shield" /><br>
-<strong><a href="https://scamshield.tensorhub.pk">Scam Shield</a></strong><br>
-<em>AI-driven fraud detection & trust signals for marketplaces.</em>
-</td>
-</tr>
-</table>
+
+| Project | Description |
+|---------|-------------|
+| <img src="https://img.shields.io/badge/⏳_Timespace-6366f1?style=for-the-badge" /><br>**[Timespace](https://timespace.tensorhub.pk/)** | Edge-native productivity engine — Cloudflare D1 + React |
+| <img src="https://img.shields.io/badge/🏢_TensorHub-000000?style=for-the-badge" /><br>**[TensorHub](https://tensorhub.pk)** | AI-powered MVPs & growth infrastructure for startups |
+| <img src="https://img.shields.io/badge/🔐_VaultZero-06b6d4?style=for-the-badge" /><br>**[VaultZero](https://vaultzero.tensorhub.pk)** | Next-gen secrets management for edge apps |
+| <img src="https://img.shields.io/badge/🛡️_Scam_Shield-f97316?style=for-the-badge" /><br>**[Scam Shield](https://scamshield.tensorhub.pk)** | AI-driven fraud detection & trust signals for marketplaces |
+
 </div>
 
 ---
@@ -49,14 +33,14 @@
 
 ---
 
-### 🚀 Live Status
+### 🚀 Live Status (Static Example)
 <div align="center">
-![Coding](https://img.shields.io/badge/Coding-Active-brightgreen?style=for-the-badge&logo=github)  
-![Deploying](https://img.shields.io/badge/Deploying-On%20Edge-ff69b4?style=for-the-badge&logo=cloudflare)  
-![AI Experiment](https://img.shields.io/badge/AI%20Experiment-Running-9b5de5?style=for-the-badge&logo=python)  
+![Coding](https://img.shields.io/badge/Coding-Active-brightgreen?style=for-the-badge)  
+![Deploying](https://img.shields.io/badge/Deploying-On%20Edge-ff69b4?style=for-the-badge)  
+![AI Experiment](https://img.shields.io/badge/AI%20Experiment-Running-9b5de5?style=for-the-badge)  
 </div>
 
-> Badges update dynamically! Replace the static links with [GitHub Actions](https://github.com/features/actions) workflows to automatically reflect your live activity.
+> ⚡ **Tip:** You can replace these with dynamic GitHub Actions badges later to reflect real-time activity.
 
 ---
 
@@ -77,24 +61,10 @@
 
 ---
 
-### 📊 Mission Log (Dynamic Activity Feed)
+### 📊 Mission Log (Example)
 - 🚀 Deployed **VaultZero v1.2**  
 - 🤖 Running **AI experiments for Scam Shield v2**  
 - 🌌 Expanding **Timespace edge features**  
 - 💻 Developing **TensorHub MVPs for clients globally**  
 
-*Use GitHub Actions to auto-update this feed with commits, deployments, or AI logs.*
-
----
-
-This README is **ready to feel alive**:  
-
-- You can link **GitHub Actions** to update badges based on **pushes, deployments, or AI experiments**.  
-- Hover tooltips can reveal **extra project stats** using shields.io `?label=...&message=...`.  
-- The “Mission Log” can be automated via JSON feeds or GitHub workflow outputs.  
-
----
-
-If you want, I can **write the GitHub Actions snippet** next that **updates your live status badges and mission log automatically**, so this README literally *changes in real time* based on your work.  
-
-Do you want me to do that?
+> Tip: This can be automated using GitHub Actions to show **live updates**.
