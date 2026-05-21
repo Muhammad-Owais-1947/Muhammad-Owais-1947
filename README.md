@@ -47,7 +47,7 @@ I enjoy turning early-stage ideas into **real production systems with measurable
 
 | Project | Description |
 |---|---|
-| 🚀 **[Timespace](https://timespace.tensorhub.pk/)** | Edge-native productivity system with real-time sync |
+| 🚀 **[Timespace](https://timespace.tensorspace.pk/)** | Edge-native productivity system with real-time sync |
 | 🏢 **[TensorHub](https://tensorhub.pk)** | AI product engineering studio for startups |
 | 🔐 **[VaultZero](https://vaultzero.tensorhub.pk)** | Secure secrets management for edge applications |
 | 🛡️ **[Scam Shield](https://scamshield.tensorhub.pk)** | AI-driven fraud detection and trust scoring system |
@@ -78,15 +78,15 @@ I enjoy turning early-stage ideas into **real production systems with measurable
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Owais-1947&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Owais-1947&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Muhammad-Owais-1947&theme=tokyo-night&hide_border=true" width="95%"/>
 
 </p>
 
